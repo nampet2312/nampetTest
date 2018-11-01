@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"KruwebContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":false,"OutputPath":"Models","ProjectRootNamespace":"nampetTest","SelectedToBeGenerated":0,"Tables":["dbo.Categories","dbo.Customer","dbo.Product","dbo.Title","dbo.Unit"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":true,"UseInflector":true}

@@ -1,0 +1,13 @@
+D:\อ.แพร\nampetTest\nampetTest\bin\Debug\netcoreapp2.1\nampetTest.deps.json
+D:\อ.แพร\nampetTest\nampetTest\bin\Debug\netcoreapp2.1\nampetTest.runtimeconfig.json
+D:\อ.แพร\nampetTest\nampetTest\bin\Debug\netcoreapp2.1\nampetTest.runtimeconfig.dev.json
+D:\อ.แพร\nampetTest\nampetTest\bin\Debug\netcoreapp2.1\nampetTest.dll
+D:\อ.แพร\nampetTest\nampetTest\obj\Debug\netcoreapp2.1\nampetTest.csproj.CoreCompileInputs.cache
+D:\อ.แพร\nampetTest\nampetTest\obj\Debug\netcoreapp2.1\nampetTest.RazorAssemblyInfo.cache
+D:\อ.แพร\nampetTest\nampetTest\obj\Debug\netcoreapp2.1\nampetTest.RazorAssemblyInfo.cs
+D:\อ.แพร\nampetTest\nampetTest\obj\Debug\netcoreapp2.1\nampetTest.AssemblyInfoInputs.cache
+D:\อ.แพร\nampetTest\nampetTest\obj\Debug\netcoreapp2.1\nampetTest.AssemblyInfo.cs
+D:\อ.แพร\nampetTest\nampetTest\obj\Debug\netcoreapp2.1\nampetTest.RazorTargetAssemblyInfo.cache
+D:\อ.แพร\nampetTest\nampetTest\bin\Debug\netcoreapp2.1\nampetTest.pdb
+D:\อ.แพร\nampetTest\nampetTest\obj\Debug\netcoreapp2.1\nampetTest.dll
+D:\อ.แพร\nampetTest\nampetTest\obj\Debug\netcoreapp2.1\nampetTest.pdb
